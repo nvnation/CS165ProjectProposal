@@ -4,13 +4,12 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .purpose{
-/*    padding: 10px;*/
     width: 800px;
     margin: auto;
     width: 50%;
     text-align: center;
     
-    font-size: 16pt;
+    font-size: 14pt;
 }
 #heading{
     text-align: center;
